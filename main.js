@@ -8,4 +8,4 @@ var c=a+b
 //     console.log('Hello: ',a)
 // },1000)
 var mystring='Hoc Javascript'
-console.log(mystring.toUpperCase)
+console.log(mystring.toUpperCase())
