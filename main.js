@@ -10,8 +10,8 @@ var c=a+b
 var mystring='   Hoc Javascript'
 var sub='Toan,Tieng Anh,Sinh hoc,Hoa hoc'
 var t=mystring.trim()
-console.log(mystring.toUpperCase())
-console.log(mystring.toLowerCase())
-console.log(mystring.length)
-console.log(t.length)
-console.log(sub.split(','))
+// console.log(mystring.toUpperCase())
+// console.log(mystring.toLowerCase())
+// console.log(mystring.length)
+// console.log(t.length)
+// console.log(sub.split(','))
