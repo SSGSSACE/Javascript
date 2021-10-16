@@ -12,4 +12,4 @@ var t=mystring.trim()
 console.log(mystring.toUpperCase())
 console.log(mystring.toLowerCase())
 console.log(mystring.length)
-conso
+console.log(t.length)
