@@ -7,11 +7,13 @@ var c=a+b
 //todo     a=a+1
 //*     console.log('Hello: ',a)
 // },1000)
-var mystring='   Hoc Javascript'
-var sub='Toan,Tieng Anh,Sinh hoc,Hoa hoc'
-var t=mystring.trim()
+// var mystring='   Hoc Javascript'
+// var sub='Toan,Tieng Anh,Sinh hoc,Hoa hoc'
+// var t=mystring.trim()
 // console.log(mystring.toUpperCase())
 // console.log(mystring.toLowerCase())
 // console.log(mystring.length)
 // console.log(t.length)
 // console.log(sub.split(','))
+var myarray = ['Toan','Ly','Hoa'];
+console.log(myarray[0])
