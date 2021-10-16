@@ -16,4 +16,4 @@ var c=a+b
 // console.log(t.length)
 // console.log(sub.split(','))
 var myarray = ['Toan','Ly','Hoa','Dia'];
-console.log(myarray.length)
+console.log(typeof myarray)
