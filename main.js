@@ -8,6 +8,7 @@ var c=a+b
 //*     console.log('Hello: ',a)
 // },1000)
 var mystring='   Hoc Javascript'
+var sub='Toan,Tieng Anh,Sinh hoc,Hoa hoc'
 var t=mystring.trim()
 console.log(mystring.toUpperCase())
 console.log(mystring.toLowerCase())
