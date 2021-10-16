@@ -9,4 +9,4 @@ var c=a+b
 // },1000)
 var mystring='Hoc Javascript'
 console.log(mystring.toUpperCase())
-console.log(mystring.toUpperCase())
+console.log(mystring.toLowerCase())
