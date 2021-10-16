@@ -7,6 +7,6 @@ var c=a+b
 //     a=a+1
 //     console.log('Hello: ',a)
 // },1000)
-var mystring='Hoc Javascript'
+var mystring='   Hoc Javascript'
 console.log(mystring.toUpperCase())
 console.log(mystring.toLowerCase())
