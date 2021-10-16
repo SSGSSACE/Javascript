@@ -5,7 +5,7 @@ var c=a+b
 //!console.log('Hello: ',c)
 //? setInterval(function() {
 //todo     a=a+1
-//     console.log('Hello: ',a)
+//*     console.log('Hello: ',a)
 // },1000)
 var mystring='   Hoc Javascript'
 var t=mystring.trim()
