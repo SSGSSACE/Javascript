@@ -10,4 +10,4 @@ var c=a+b
 var mystring='   Hoc Javascript'
 console.log(mystring.toUpperCase())
 console.log(mystring.toLowerCase())
-console.log(mystring.trim())
+console.log(mystring.length())
